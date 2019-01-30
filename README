@@ -1,0 +1,9 @@
+testhw takes only one argument--the directory that holds your three source files.
+testhw places all of the results in results.txt in 
+the directory with the source files in it.
+
+This program is an implementation of both the DM (direct memory) and SA (set-associative) caches.
+I collaborated with one other person to program this. This was made in C++. The testing files were
+made by an outside source. To run, simply go into each of the individual files and run the respective
+executables, followed by the name of the input file you wish to test. The outputs will be stored in files named "dm"- or "sa"- "-out.txt".
+

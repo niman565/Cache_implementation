@@ -1,0 +1,20 @@
+Scores from p4 for You need to create an authors.csv file!!!!
+
+Note that format is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: dmcache.cpp@ucdavis.edu
+ 
+dmcache.cpp:
+Testing dmtest-8-64-1000-4.txt: 
+
+Not OK
+Testing dmtest-8-64-1000-5.txt: 
+
+Not OK
+Testing dmtest-8-64-1000-6.txt: 
+
+Not OK
+
+sacache.cpp: 
+Total score: 0 + 0 = 0
